@@ -1,6 +1,6 @@
-4bdc636c82036450c344a43acfdc0205 *DESCRIPTION
+5ef08926fd40857f146c03afafecb077 *DESCRIPTION
 888d6261570f96db7385ec0463448d0a *NAMESPACE
-9d9be729e196b1d1e9afd55ea4d7fc0c *NEWS.md
+f42ecd58db8d4883004efdd131c7257f *NEWS.md
 14f4cdf3c3ddbd861724b56f55d80db0 *R/layeranalyzer_analyze.R
 e52bfcdb435f65b9209eaea478c018f8 *R/layeranalyzer_loglik.R
 66414dccadb5e51dc3fb8767b9d25469 *R/layeranalyzer_model_compare.R
@@ -9,7 +9,7 @@ e52bfcdb435f65b9209eaea478c018f8 *R/layeranalyzer_loglik.R
 6c2dd2508975ae0d69b05be4e25d253a *R/layeranalyzer_priors.R
 558e2c0664c9dc3fb1315e664ecae20b *R/layeranalyzer_timeseries.R
 06a3450ac37a5b831eb77531294572bd *R/zzz.R
-5c95613f22ec4bdc57cb57f06b1735ac *build/partial.rdb
+755a2e8c05068021b2cedaffaa142470 *build/partial.rdb
 d76dabb355f9183861ca8a6e35726d07 *data/bi.lext.rda
 14eb2208d87d6c13f453d416c6f20ab8 *data/br.lext.rda
 905fa88fe31447f6578e71c086d9c356 *data/br.lorig.rda
@@ -64,4 +64,4 @@ e093dfe8e6167c275611f5a525cfa696 *man/malta.Rd
 cf99b132c21a34f305db279a81da46fb *src/Makevars
 a74ef1f2421bd0d2733bbfd720ee40b6 *src/Makevars.win
 9c26e4b69c4be4b69cc703fcc11bfa3e *src/init.c
-98045f457a2a87559ca02711a85dde8b *src/layeranalyzer.cpp
+eca0e2ac4853795660e53c9e312751f1 *src/layeranalyzer.cpp
